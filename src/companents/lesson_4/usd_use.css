@@ -1,7 +1,7 @@
 
-body{
+/* body{
 background: aqua;
-}
+} */
 .block{
     /* background: rgba(255, 255, 255, 0.543); */
     width: 250px;
@@ -29,5 +29,5 @@ background: aqua;
     width: 100px;
 }
 .resalt{
-    color: rgb(11, 205, 205);     
+    color:#144fe6ef;     
 }
